@@ -7,11 +7,11 @@
 
 
 # import
-  >  [**使用package**](/import/使用package) 
+  >  [**使用package**](/import/使用package.md) 
 
-  - [strings](/import/strings)
-  - [time](/import/time)
-  - [os](/import/os)
+  - [strings](/import/strings.md)
+  - [time](/import/time.md)
+  - [os](/import/os.md)
   - [strconv](/import/stronv)
   - [net/http](/import/nethttp)
   - [io/ioutil](/import/ioioutil)
@@ -22,8 +22,8 @@
     - [import](/import/使用package) 
     - [package](/import/使用package) 
   - 聲明定義
-    - [chan](/保留字/chan)
-    - [const](/保留字/const)
+    - [chan](/保留字/chan.md)
+    - [const](/保留字/const.md)
     - [func](/保留字/func)
     - [interface](/保留字/interface)
     - [map](/保留字/map)
